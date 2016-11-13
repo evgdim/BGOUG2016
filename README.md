@@ -2,7 +2,7 @@
 
 ## This repository contains a sample project solution that shows a simple Microservice architecture using Spring Cloud.
 
-## Presentation for that repository can be found [here](https://docs.google.com/presentation/d/1fWbX71hk-hXH2cvgfQbQHnJdZ5z5mPuqOfOra37snHw/edit?usp=sharing).
+## Presentation for that repository can be found [here](https://drive.google.com/file/d/0B-GNXzBpRemLOGxkdjZRdFJSQjg/view?usp=sharing).
 
 ## Used Components:
 * Config Server
